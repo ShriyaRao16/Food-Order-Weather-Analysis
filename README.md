@@ -56,13 +56,7 @@ A Streamlit web application that analyzes the correlation between weather condit
 5. **Open your browser**
    - The app will automatically open at the streamlit App
    - If not, navigate to the URL shown in your terminal
-   - ## Technical Blog
-
-## Technical Blog
-
-📘 Exploring the Impact of Weather on Food Orders Using an Interactive Dashboard  
-[🔗 https://builder.aws.com/content/36psm4eSqb0feyjUqv4v3VVk4bW/exploring-the-impact-of-weather-on-food-orders-using-an-interactive-dashboard
-](https://builder.aws.com/content/36psm4eSqb0feyjUqv4v3VVk4bW/exploring-the-impact-of-weather-on-food-orders-using-an-interactive-dashboard)
+  
 
 
 
@@ -162,6 +156,7 @@ If you encounter any issues or have questions:
 
 
 **Made with ❤️ using Kiro IDE and Streamlit**
+
 
 
 
