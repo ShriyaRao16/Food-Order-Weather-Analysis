@@ -28,7 +28,7 @@ A Streamlit web application that analyzes the correlation between weather condit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/food-weather-dashboard.git
+   git clone https://github.com/ShriyaRao16/food-weather-dashboard.git
    cd food-weather-dashboard
    ```
 
@@ -156,6 +156,7 @@ If you encounter any issues or have questions:
 
 
 **Made with ❤️ using Kiro IDE and Streamlit**
+
 
 
 
